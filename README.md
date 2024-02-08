@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raif Mirza Erten</h1>
-<h3 align="center">A passionate last year computer engineer student at Istanbul Technical University.</h3>
+<h3 align="center">A passionate graduated computer engineer at Istanbul Technical University.</h3>
 
-- 🌱 I’m currently learning **Spring, Typescript**
+- 🌱 I’m currently learning **Spring, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raifmirza](https://github.com/raifmirza)
 
